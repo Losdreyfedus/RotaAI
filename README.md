@@ -1,6 +1,6 @@
 # RotaAI Uygulaması
 
-RotaAI, yapay zeka destekli rota optimizasyonu ve planlama uygulamasıdır. Bu proje, frontend ve backend olmak üzere iki ana bölümden oluşmaktadır.
+RotaAI, yapay zeka destekli rota optimizasyonu ve planlama uygulamasıdır. Bu proje, mobil ve backend olmak üzere iki ana bölümden oluşmaktadır.
 
 ## 🚀 Özellikler
 
@@ -8,23 +8,20 @@ RotaAI, yapay zeka destekli rota optimizasyonu ve planlama uygulamasıdır. Bu p
 - Cross-platform destek (Android, iOS, Web, Windows, Linux, macOS)
 - Gerçek zamanlı rota güncellemeleri
 - Kullanıcı dostu arayüz
-- Offline çalışma desteği
 
 ## 🛠️ Kullanılan Teknolojiler
 
-### Frontend
+### Mobil
 - Flutter
 - Dart
 - Provider (State Management)
 - HTTP (API İletişimi)
-- Shared Preferences (Yerel Depolama)
 
 ### Backend
 - C# (.NET)
 - Entity Framework Core
 - SQL Server
 - RESTful API
-- JWT Authentication
 
 ## 📋 Gereksinimler
 
@@ -36,7 +33,7 @@ RotaAI, yapay zeka destekli rota optimizasyonu ve planlama uygulamasıdır. Bu p
 
 ## 🔧 Kurulum
 
-### Frontend Kurulumu
+### Mobil Kurulumu
 
 1. Flutter SDK'yı yükleyin
 2. Projeyi klonlayın:
@@ -71,13 +68,9 @@ TeknofestBackendCsharp.sln
 5. Veritabanı bağlantı ayarlarını yapılandırın
 6. Uygulamayı çalıştırın
 
-## 📱 Ekran Görüntüleri
-
-[Ekran görüntüleri buraya eklenecek]
 
 ## 🔐 Güvenlik
 
-- JWT tabanlı kimlik doğrulama
 - HTTPS zorunluluğu
 - Input validasyonu
 - SQL injection koruması
@@ -89,8 +82,6 @@ TeknofestBackendCsharp.sln
 3. Değişikliklerinizi commit edin (`git commit -m 'feat: Add some amazing feature'`)
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
-
-## 📝 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
