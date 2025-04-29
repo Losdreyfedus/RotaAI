@@ -83,8 +83,5 @@ TeknofestBackendCsharp.sln
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
 ## 📞 İletişim
-
-[İletişim bilgileriniz] 
+Mail: hamzakar13y@gmail.com
